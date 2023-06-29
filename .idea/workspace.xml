@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30b9a468-a5be-448e-8119-df85cb6e9405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cal01/DayOfCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cal01/MTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingCalc/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2RrTd66skVafSlfIfmHjeF2dJOv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,7 +40,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingCalc.Calculator" />
+      <module name="MTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwingCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cal01.MTest" />
       <module name="MTest" />
@@ -59,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.MTest" />
       </list>
     </recent_temporary>
@@ -72,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688007287508</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1688010426520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688010426520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
